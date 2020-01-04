@@ -1,0 +1,5 @@
+interface Burger {
+    double makeBurger();
+}
+
+
