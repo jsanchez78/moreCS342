@@ -4,7 +4,7 @@
   , "private": true
   , "dependencies": {
       "aasm-js": "*"
-    , "connect": "1.x"
+    , "connect": "3.x"
     , "express": "2.x"
     , "jade": "*"
   }
